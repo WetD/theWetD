@@ -1,3 +1,4 @@
+git mv ex1.py ex/ex1.py
 #3和2的不同print
  #2.X: print "The answer is", 2*2 
  #3.X: print("The answer is", 2*2) 
